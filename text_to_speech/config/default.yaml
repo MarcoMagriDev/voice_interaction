@@ -1,0 +1,4 @@
+text_to_speech:
+  ros__parameters:
+    default_voice_config: text_to_speech/config/voices/piper.yaml
+    default_device_indexes: [-1]

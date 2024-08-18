@@ -1,0 +1,13 @@
+speech_to_text:
+  ros__parameters:
+    start_enabled: true
+    device_index: 11
+    vad:
+      pause_threshold: 0.5
+      phrase_threshold: 0.1
+      energy_threshold: 2000
+      dynamic_energy_threshold: false
+    stt_client: 
+      type: faster_whisper
+      model: large-v3
+      language: en

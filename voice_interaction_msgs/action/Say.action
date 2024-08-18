@@ -1,0 +1,9 @@
+string text
+int8[] devices
+string voice_config
+---
+string message
+---
+int8 status
+int8 CONVERTING=1
+int8 PLAYING=2

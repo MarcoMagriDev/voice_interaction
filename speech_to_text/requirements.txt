@@ -1,0 +1,1 @@
+git+https://github.com/MarcoMagriDev/speech_recognition.git@efficient_word_net

@@ -1,0 +1,3 @@
+type: piper
+params:
+  model_file: text_to_speech/config/voices/piper/en_GB-northern_english_male-medium.onnx

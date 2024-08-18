@@ -1,0 +1,6 @@
+type: gtts
+params:
+  tld: com
+  lang: en
+  slow: True
+  lang_check: True
